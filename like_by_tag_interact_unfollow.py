@@ -19,9 +19,9 @@ dont_likes = ['sex', 'nude', 'naked', 'sausage', 'fur', 'leather',
 
 friends = ['list of friends I do not want to interact with']
 
-like_tag_list = ['shihtzu', 'shihtzusgram', 'dogsofinstagram', 'dogstagram', 'shihtzuofinstagram',
+like_tag_list = ['shihtzu', 'shihtzusgram', 'dogsofinstagram', 'dogstagram', 'shihtzuofinstagram', 'shihtzupuppies', 'shihtzusociety',
                  'shihtzugram', 'doggo', 'pupper', '#dogsofinstaworld', 'doggos', 'littleshihtzu', 'fluffypuppy',
-                 'shihtzus']
+                 'shihtzus', 'shihtzulovers', 'shihtzulife', 'shihtzumania', 'shihtzulove', 'doglovers', 'dogloversclub', 'doglover']
 
 # prevent posts that contain some plantbased meat from being skipped
 ignore_list = ['cat', 'kitten']
